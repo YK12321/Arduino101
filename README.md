@@ -1,4 +1,4 @@
-#Arduino101
+# Arduino101
 
 This repository contains a collection of beginner-itermediate level Arduino projects that I completed as part of an Arduino course. These projects are designed to help beginners get familiar with the Arduino platform and its capabilities.
 
