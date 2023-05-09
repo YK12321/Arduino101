@@ -20,6 +20,8 @@ The projects included in this repository are:
 
 - **Photoresistor Servo Controller:** A program that uses the input of a photoresistor to control a servo motor.
 
+- **Subject to more additions:** I'm constantly working on many projects and commonly add them to this repository
+
 ## Getting Started
 
 To run these projects on your Arduino board, you will need to have the Arduino IDE installed on your computer. You can download the latest version of the Arduino IDE from the official website: https://www.arduino.cc/en/software
