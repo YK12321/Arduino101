@@ -20,7 +20,7 @@ The projects included in this repository are:
 
 - **Photoresistor Servo Controller:** A program that uses the input of a photoresistor to control a servo motor.
 
-- **Subject to more additions:** I'm constantly working on many projects and commonly add them to this repository
+- **Subject to more additions:** I'm constantly working on many projects and commonly add them to this repository.
 
 ## Getting Started
 
